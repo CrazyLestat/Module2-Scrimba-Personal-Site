@@ -1,4 +1,4 @@
-# co0fc4bf9aa27e4c75a56a643
+# Scrimba Project
 
 ## About Scrimba
 
